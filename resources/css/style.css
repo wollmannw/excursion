@@ -1,11 +1,45 @@
 * {
 font-family: Verdana;
+background-color: black;
+
 
 }
 
 h1 {
   font-weight: normal;
   font-size: 50px;
+  text-align: center;
+  color: white;
+}
+
+#download {
+  color: Aquamarine;
+  font-size: 16px;
+  text-align: center;
+}
+
+.video {
+  text-align: center;
+  background-color: black;
+}
+
+.middle{
+  font-weight: 300;
+  font-size: 42px;
   color: white;
   text-align: center;
+}
+
+.memory {
+  text-align: center;
+  color: Gray;
+  font-size: 21px;
+}
+
+.fr {
+color: gray;
+font-size: 20px;
+text-align: right;
+font-weight: 400;
+
 }
